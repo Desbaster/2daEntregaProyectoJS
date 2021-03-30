@@ -1,0 +1,26 @@
+body{
+    background: linear-gradient(130deg, rgba(133, 186, 102,.9) 0%, rgb(131, 155, 128) 40%, rgba(114, 204, 62, 0.9)70%);
+    background-attachment: fixed;
+    color:#e0edd8;
+}
+
+main {
+    width: 100vw;
+} 
+
+.btn {
+    color: green;
+    ;
+}
+
+.p-footer {
+    color:rgb(21, 102, 21);
+    text-align-last: center;
+    font-family: sans-serif;
+    text-transform: capitalize;
+}
+
+.text-footer {
+    text-shadow: 1px 1px 1px white;
+    
+}
