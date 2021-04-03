@@ -69,7 +69,7 @@ function IngresarDatos() {
                 <th scope="col">${monto}</th>
                 <th scope="col">${mes}</th>
                 <th scope="col">
-                    <a href="#" onclick="eliminar('${nombre}')" class="btn btn-success ml-5">Eliminar</a>
+                  <a href="#" onclick="eliminar('${nombre}')" class="btn btn-success ml-5">Eliminar</a>
                 </th>
             </tr>
         </tbody>`;
